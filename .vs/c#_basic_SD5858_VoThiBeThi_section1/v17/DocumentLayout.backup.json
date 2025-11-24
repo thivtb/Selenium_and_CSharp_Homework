@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\pageobjectmodel\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\tests\\productspagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\productspagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\pageobjectmodel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\pageobjectmodel\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\pageobjectmodel\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\tests\\homepagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\homepagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\excercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:excercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\excercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:excercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thi.vothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\locators\\c#_basic_sd5858_vothibethi_section1\\c#_basic_sd5858_vothibethi_section1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:c#_basic_sd5858_vothibethi_section1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\ProductInfo.cs",
+              "RelativeToolTip": "PageObjectModel\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:29:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\CartPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\CartPage.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\CartPage.cs",
+              "RelativeToolTip": "PageObjectModel\\CartPage.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:22:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsPageTest.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Tests\\ProductsPageTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ProductsPageTest.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Tests\\ProductsPageTest.cs",
+              "RelativeToolTip": "Tests\\ProductsPageTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:23:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\ProductsPage.cs",
+              "RelativeToolTip": "PageObjectModel\\ProductsPage.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T05:16:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePageTest.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Tests\\HomePageTest.cs",
+              "RelativeDocumentMoniker": "Tests\\HomePageTest.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Tests\\HomePageTest.cs",
+              "RelativeToolTip": "Tests\\HomePageTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:21:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\HomePage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\HomePage.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\PageObjectModel\\HomePage.cs",
+              "RelativeToolTip": "PageObjectModel\\HomePage.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA9wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:10:50.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Excercise1.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Excercise1.cs",
+              "RelativeDocumentMoniker": "Excercise1.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Excercise1.cs",
+              "RelativeToolTip": "Excercise1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:30:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Excercise2.cs",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Excercise2.cs",
+              "RelativeDocumentMoniker": "Excercise2.cs",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\Excercise2.cs",
+              "RelativeToolTip": "Excercise2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:54:22.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "DocumentMoniker": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "RelativeDocumentMoniker": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "ToolTip": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "RelativeToolTip": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T18:49:44.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
