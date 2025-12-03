@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\tests\\loginwithvalidcredentialstest_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\loginwithvalidcredentialstest_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\tests\\loginwithvalidcredentialstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\loginwithvalidcredentialstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\tests\\loginwithinvalidcredentialstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\loginwithinvalidcredentialstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\tests\\loginwithinvalidcredentialstest_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\loginwithinvalidcredentialstest_pom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\tests\\productspagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:tests\\productspagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\pageobjectmodel\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\pageobjectmodel\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\pageobjectmodel\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\pageobjectmodel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:pageobjectmodel\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\configs\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:configs\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\configs\\testdata.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:configs\\testdata.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|c:\\users\\thivothibe\\onedrive - nashtech\\desktop\\selenium\\practice projects\\selenium_and_csharp_homework\\c#_basic_sd5858_vothibethi_section1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4721573B-E5C0-4CBE-B0FB-F58426EB278C}|c#_basic_SD5858_VoThiBeThi_section1.csproj|solutionrelative:c#_basic_sd5858_vothibethi_section1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWithValidCredentialsTest_POM.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithValidCredentialsTest_POM.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginWithValidCredentialsTest_POM.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithValidCredentialsTest_POM.cs",
+              "RelativeToolTip": "Tests\\LoginWithValidCredentialsTest_POM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:17:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWithInvalidCredentialsTest_POM.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithInvalidCredentialsTest_POM.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginWithInvalidCredentialsTest_POM.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithInvalidCredentialsTest_POM.cs",
+              "RelativeToolTip": "Tests\\LoginWithInvalidCredentialsTest_POM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWithInvalidCredentialsTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithInvalidCredentialsTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginWithInvalidCredentialsTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithInvalidCredentialsTest.cs",
+              "RelativeToolTip": "Tests\\LoginWithInvalidCredentialsTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWithValidCredentialsTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithValidCredentialsTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginWithValidCredentialsTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\LoginWithValidCredentialsTest.cs",
+              "RelativeToolTip": "Tests\\LoginWithValidCredentialsTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsPageTest.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\ProductsPageTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ProductsPageTest.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Tests\\ProductsPageTest.cs",
+              "RelativeToolTip": "Tests\\ProductsPageTest.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\ProductsPage.cs",
+              "RelativeToolTip": "PageObjectModel\\ProductsPage.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\ProductInfo.cs",
+              "RelativeToolTip": "PageObjectModel\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\CartPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\CartPage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\CartPage.cs",
+              "RelativeToolTip": "PageObjectModel\\CartPage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\HomePage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\HomePage.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\PageObjectModel\\HomePage.cs",
+              "RelativeToolTip": "PageObjectModel\\HomePage.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:09:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Configs\\TestSettings.cs",
+              "RelativeDocumentMoniker": "Configs\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Configs\\TestSettings.cs",
+              "RelativeToolTip": "Configs\\TestSettings.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA0wBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:00:36.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestData.json",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Configs\\TestData.json",
+              "RelativeDocumentMoniker": "Configs\\TestData.json",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\Configs\\TestData.json",
+              "RelativeToolTip": "Configs\\TestData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T08:02:59.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "DocumentMoniker": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "RelativeDocumentMoniker": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "ToolTip": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "RelativeToolTip": "c#_basic_SD5858_VoThiBeThi_section1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T07:09:04.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

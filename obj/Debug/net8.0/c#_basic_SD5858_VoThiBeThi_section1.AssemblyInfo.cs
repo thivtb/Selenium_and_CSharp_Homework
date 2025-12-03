@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c#_basic_SD5858_VoThiBeThi_section1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb293ea3adfabc98f4380101bb0c3b4aa115c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("c#_basic_SD5858_VoThiBeThi_section1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c#_basic_SD5858_VoThiBeThi_section1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

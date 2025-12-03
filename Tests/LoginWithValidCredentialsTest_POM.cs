@@ -5,7 +5,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace c__basic_SD5858_VoThiBeThi_section1;
 
-public class HomePageTest
+public class LoginWithValidCredentialsTest_POM
 {
     IWebDriver driver;
     private TestSettings settings;
@@ -22,7 +22,7 @@ public class HomePageTest
     }
 
     [Test]
-    public void LoginWithValidAndInvalidCredentials()
+    public void LoginWithValidCredentials()
     {
         string invalidEmail = settings.InvalidLogin.Email;
         string invalidPassword = settings.InvalidLogin.Password;
@@ -42,16 +42,6 @@ public class HomePageTest
         // Verify 'Login to your account' is visible
         IWebElement loginPageTitle = homePage.getLoginPageTitle();
         Assert.IsTrue(loginPageTitle.Displayed, "'Login to your account' is invisible");
-
-        //Login with incorrect email and password
-        homePage.login(invalidEmail, invalidPassword);
-
-        // Verify error 'Your email or password is incorrect!' is visible
-        IWebElement errorMsg = homePage.getErrorMsg();
-        Assert.IsTrue(errorMsg.Displayed, "Error message 'Your email or password is incorrect!' is invisible");
-
-        // Clear login form data
-        homePage.clearLoginForm();
 
         //Login with correct email and password
         homePage.login(validEmail, validPassword);

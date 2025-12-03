@@ -4,7 +4,7 @@ using OpenQA.Selenium.Chrome;
 
 namespace c__basic_SD5858_VoThiBeThi_section1.Tests;
 
-public class Excercise2
+public class LoginWithValidCredentialsTest
 {
     IWebDriver driver;
     private TestSettings settings;

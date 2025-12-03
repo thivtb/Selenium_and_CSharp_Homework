@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj": {}
+    "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj": {
+    "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+        "projectUniqueName": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
         "projectName": "c#_basic_SD5858_VoThiBeThi_section1",
-        "projectPath": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
-        "packagesPath": "C:\\Users\\thi.vothibe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thi.vothibe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Locators\\c#_basic_SD5858_VoThiBeThi_section1\\obj\\",
+        "projectPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\c#_basic_SD5858_VoThiBeThi_section1.csproj",
+        "packagesPath": "C:\\Users\\ThiVoThiBe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThiVoThiBe\\OneDrive - NASHTECH\\Desktop\\Selenium\\Practice projects\\Selenium_and_CSharp_Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thi.vothibe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThiVoThiBe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -61,6 +61,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -95,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
