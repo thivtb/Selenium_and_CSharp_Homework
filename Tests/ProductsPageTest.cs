@@ -1,4 +1,5 @@
-﻿using c__basic_SD5858_VoThiBeThi_section1.PageObjectModel;
+﻿using c__basic_SD5858_VoThiBeThi_section1.Configs;
+using c__basic_SD5858_VoThiBeThi_section1.PageObjectModel;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
@@ -11,10 +12,12 @@ public class ProductsPageTest
     IWebDriver driver;
     WebDriverWait wait;
     Actions actions;
+    private TestSettings settings;
 
     [SetUp]
     public void Setup()
     {
+        settings = TestSettings.LoadSettings();
         var options = new ChromeOptions();
         var service = ChromeDriverService.CreateDefaultService();
         driver = new ChromeDriver(service, options);
@@ -23,9 +26,9 @@ public class ProductsPageTest
     }
 
     [Test]
-    public void Test1()
+    public void AddProductToCart()
     {
-        driver.Url = "https://automationexercise.com/";
+        driver.Url = settings.BaseUrl;
         ProductsPage productPage = new ProductsPage(driver);
        
         //  Verify that home page is visible successfully

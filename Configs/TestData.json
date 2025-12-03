@@ -1,0 +1,13 @@
+{
+  "BaseUrl": "https://automationexercise.com",
+  "LoginUrl": "https://automationexercise.com/login",
+  "ProductsUrl": "https://automationexercise.com/products",
+  "ValidLogin": {
+    "Email": "kejekah234@datoinf.com",
+    "Password": "123456"
+  },
+  "InvalidLogin": {
+    "Email": "wrong@gmail.com",
+    "Password": "WrongPass"
+  }
+}

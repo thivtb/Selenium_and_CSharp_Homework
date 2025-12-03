@@ -1,15 +1,18 @@
-﻿using OpenQA.Selenium;
+﻿using c__basic_SD5858_VoThiBeThi_section1.Configs;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace c__basic_SD5858_VoThiBeThi_section1;
+namespace c__basic_SD5858_VoThiBeThi_section1.Tests;
 
 public class Excercise2
 {
     IWebDriver driver;
+    private TestSettings settings;
 
     [SetUp]
     public void Setup()
     {
+        settings = TestSettings.LoadSettings();
         var options = new ChromeOptions();
         var service = ChromeDriverService.CreateDefaultService();
         driver = new ChromeDriver(service, options);
@@ -18,9 +21,9 @@ public class Excercise2
     }
 
     [Test]
-    public void Test1()
+    public void LoginWithCorrectUsernamePassword()
     {
-        driver.Url = "https://automationexercise.com/";
+        driver.Url = settings.BaseUrl;
 
         //  Verify that home page is visible successfully
         string title = driver.Title;
@@ -34,8 +37,8 @@ public class Excercise2
         Assert.IsTrue(loginTitle.Displayed, "'Login to your account' is invisible");
 
         // Enter incorrect email address and password
-        driver.FindElement(By.Name("email")).SendKeys("kejekah234@datoinf.com");
-        driver.FindElement(By.Name("password")).SendKeys("123456");
+        driver.FindElement(By.Name("email")).SendKeys(settings.ValidLogin.Email);
+        driver.FindElement(By.Name("password")).SendKeys(settings.ValidLogin.Password);
 
         // Click 'login' button
         driver.FindElement(By.XPath("//button[text()='Login']")).Click();

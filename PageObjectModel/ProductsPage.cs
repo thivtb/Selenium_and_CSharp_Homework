@@ -53,10 +53,12 @@ namespace c__basic_SD5858_VoThiBeThi_section1.PageObjectModel
         {
             ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].scrollIntoView(true);", product);
             Thread.Sleep(500);
+
             actions.MoveToElement(product).Perform();
+            Thread.Sleep(500);
+
             IWebElement button = product.FindElement(addProductBtn);
-            wait.Until(p => button.Displayed);
-            button.Click();
+            ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].click();", button);
         }
 
         public ProductInfo getProductInfor(IWebElement product)

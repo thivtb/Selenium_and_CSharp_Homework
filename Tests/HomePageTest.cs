@@ -1,4 +1,5 @@
-﻿using c__basic_SD5858_VoThiBeThi_section1.PageObjectModel;
+﻿using c__basic_SD5858_VoThiBeThi_section1.Configs;
+using c__basic_SD5858_VoThiBeThi_section1.PageObjectModel;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
@@ -7,10 +8,12 @@ namespace c__basic_SD5858_VoThiBeThi_section1;
 public class HomePageTest
 {
     IWebDriver driver;
+    private TestSettings settings;
 
     [SetUp]
     public void Setup()
     {
+        settings = TestSettings.LoadSettings();
         var options = new ChromeOptions();
         var service = ChromeDriverService.CreateDefaultService();
         driver = new ChromeDriver(service, options);
@@ -19,12 +22,14 @@ public class HomePageTest
     }
 
     [Test]
-    public void Test1()
+    public void LoginWithValidAndInvalidCredentials()
     {
-        string email = "test@gmail.com";
-        string password = "password";
+        string invalidEmail = settings.InvalidLogin.Email;
+        string invalidPassword = settings.InvalidLogin.Password;
+        string validEmail = settings.ValidLogin.Email;
+        string validPassword = settings.ValidLogin.Password;
 
-        driver.Url = "https://automationexercise.com/";
+        driver.Url = settings.BaseUrl;
         HomePage homePage = new HomePage(driver);
 
         //  Verify that home page is visible successfully
@@ -39,7 +44,7 @@ public class HomePageTest
         Assert.IsTrue(loginPageTitle.Displayed, "'Login to your account' is invisible");
 
         //Login with incorrect email and password
-        homePage.login("test@gmail.com", "password");
+        homePage.login(invalidEmail, invalidPassword);
 
         // Verify error 'Your email or password is incorrect!' is visible
         IWebElement errorMsg = homePage.getErrorMsg();
@@ -49,7 +54,7 @@ public class HomePageTest
         homePage.clearLoginForm();
 
         //Login with correct email and password
-        homePage.login("kejekah234@datoinf.com", "123456");
+        homePage.login(validEmail, validPassword);
 
         // Verify that 'Logged in as username' is visible
         IWebElement loginAs = homePage.getLoginAsText();
@@ -59,7 +64,7 @@ public class HomePageTest
     [TearDown]
     public void TearDown()
     {
-        driver.Dispose();
         driver.Quit();
+        driver.Dispose();
     }
 }
